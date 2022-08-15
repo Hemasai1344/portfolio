@@ -1,7 +1,7 @@
 <span id="a">portfolio@hemasaithaninki.com</span>:<span id="b">~</span><span id="c">$</span> cat aboutme.txt<br/><br/>
 
 I'm Hemasai Thaninki, Certified AWS Solution Architect - Associate and Certified Redhat System Administrator. I'm currently pursuing B.Tech final year in Electronics and Communication with an aggregate of 8.3 CGPA, My area of interest and expertise involves Cloud Architect, Networking, Linux and Python. I'm a zealous learner of Cloud Computing, Python, Networking for more than 2 years now.</p>
-Here's my <a href="https://github.com/techatro/bharanidharan.com/raw/master/Bharanidharan_S_resume.pdf" target="_blank"> resume </a>if you are looking to hire me.</p>
+Here's my <a href="https://github.com/Hemasai1344/portfolio/blob/master/Hemasai%20resume.pdf" target="_blank"> resume </a>if you are looking to hire me.</p>
 
 <span id="a">portfolio@hemasaithaninki.com</span>:<span id="b">~</span><span id="c">$</span> cat contact.txt<br/><br/>
 You can reach me via <a href = "mailto: hemasai1344@gmail.com"> e-mail </a> / <a href="tel:9640107424"> contact number</a>.</p>
