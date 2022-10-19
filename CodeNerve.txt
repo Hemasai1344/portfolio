@@ -5,7 +5,8 @@ Here's my <a href="https://drive.google.com/file/d/1021oiMI8arPGb8QhMnC5SuGFvzAN
 
 <span id="a">portfolio@hemasaithaninki.com</span>:<span id="b">~</span><span id="c">$</span> cat contact.txt<br/><br/>
 You can reach me via <a href = "mailto: hemasai1344@gmail.com"> e-mail </a> / <a href="tel:9640107424"> contact number</a>.</p>
+My Coding Profiles are : <p> <br> #<a href="https://leetcode.com/hemasai1344/" target="_blank"> LeetCode</a> <br> #<a href="https://www.hackerrank.com/19A91A04I5" target="_blank"> HackerRank</a> <br> #<a href="https://auth.geeksforgeeks.org/user/hemasai1344/practice/" target="_blank"> GeeksforGeeks</a> <br> 
+
+
 My other social media handles include: <p> <br> #<a href="https://www.linkedin.com/in/hemasai/" target="_blank"> LinkedIn</a> <br> #<a href="https://www.instagram.com/hemasai9999/" target="_blank"> Instagram</a> <br> #<a href="https://www.facebook.com/hemasai.taninki.7" target="_blank"> Facebook</a> <br> #<a href="https://twitter.com/HeYu7112" target="_blank"> Twitter</a></p>
 <span id="a">portfolio@hemasaithaninki.com</span>:<span id="b">~</span><span id="c">$</span> exit <br/>
-
-
